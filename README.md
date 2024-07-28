@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Unnati Chitra 👋</h1>
-<h3 align="center">A passionate Data Science Enthusiast</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **Generative AI, NLP**
 

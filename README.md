@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on innovative project
 
-- 📫 How to reach me **unnatii053@gmail.com**
+- 📫 How to reach me: **unnatii053@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

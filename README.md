@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Generative AI, NLP**
 
-- 👯 I’m looking to collaborate on innovative project
+- 👯 I’m looking to collaborate on AI/ML based projects.
 
 - 📫 How to reach me: **unnatii053@gmail.com**
 

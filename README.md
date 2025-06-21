@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **unnatii053@gmail.com**
 
+<a href="https://www.youtube.com/@campusx-official" target="_blank">Highly Recommended Channel for ML</a> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/unnati-chitra-58b92b230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-chitra-58b92b230" height="30" width="40" /></a>

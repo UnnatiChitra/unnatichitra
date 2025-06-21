@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **unnatii053@gmail.com**
 
-- Highly Recommended Channel for ML(in hindi): <a href="https://www.youtube.com/@campusx-official">https://www.youtube.com/@campusx-official</a>
+- Highly Recommended Channel for ML(in hindi):  **<a href="https://www.youtube.com/@campusx-official">https://www.youtube.com/@campusx-official</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

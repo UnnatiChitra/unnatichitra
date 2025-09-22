@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on AI/ML based projects.
 
-- 📫 How to reach me: **unnatii053@gmail.com**
+- 📫 How to reach me: **unnatichitra05@gmail.com**
 
 - Highly Recommended Channel for ML(in hindi):  **<a href="https://www.youtube.com/@campusx-official">https://www.youtube.com/@campusx-official</a>**
 
@@ -13,3 +13,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/unnati-chitra-58b92b230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-chitra-58b92b230" height="30" width="40" /></a>
 </p>
+

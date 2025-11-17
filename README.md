@@ -1,5 +1,6 @@
 <h1 align="center">🌸Hey there, I’m so glad you’re here!</h1>
-<h3 align="center">I'm a passionate Machine Learning Enthusiast</h3>
+<h3 align="left">Welcome to my GitHub space!</h3>
+<h3 align="left">I'm a passionate Machine Learning Enthusiast</h3>
 
 - 🌱 I’m currently learning **Generative AI, NLP**
 
@@ -13,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/unnati-chitra-58b92b230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-chitra-58b92b230" height="30" width="40" /></a>
 </p>
+
 
 
 

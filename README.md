@@ -1,8 +1,6 @@
 <div align="center">
   
-  <h1>🌸 Hey there, I’m so glad you’re here!</h1>
-
-  <h3>Welcome to my GitHub space!</h3>
+  <h1>Hey there, I’m so glad you’re here!</h1>
 
   <p><strong>I'm a passionate Machine Learning Enthusiast</strong></p>
 
@@ -18,6 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/unnati-chitra-58b92b230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-chitra-58b92b230" height="30" width="40" /></a>
 </p>
+
 
 
 
